@@ -1,5 +1,5 @@
 <h1 align="center">Hello , i'm Alexandre Dalle</h1>
-<h3 align="center">I'm seeking for a 18-Month Full Stack Developer Internship</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
